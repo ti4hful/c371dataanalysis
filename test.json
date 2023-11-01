@@ -1,0 +1,185 @@
+[
+  {
+    "address": {
+      "building": "87-69",
+      "coord": [-73.8309503, 40.7001121],
+      "street": "Lefferts Boulevard",
+      "zipcode": "11418"
+    },
+    "borough": "Queens",
+    "cuisine": "American",
+    "grades": [
+      {"date": {"$date": 1393286400000}, "grade": "A", "score": 7},
+      {"date": {"$date": 1376438400000}, "grade": "A", "score": 11},
+      {"date": {"$date": 1344297600000}, "grade": "A", "score": 7},
+      {"date": {"$date": 1332720000000}, "grade": "A", "score": 10},
+      {"date": {"$date": 1320364800000}, "grade": "A", "score": 0},
+      {"date": {"$date": 1309305600000}, "grade": "A", "score": 4}
+    ],
+    "name": "Snack Time Grill",
+    "restaurant_id": "40363590"
+  },
+  {
+    "address": {
+      "building": "1418",
+      "coord": [-73.95685019999999, 40.7753401],
+      "street": "Third Avenue",
+      "zipcode": "10028"
+    },
+    "borough": "Manhattan",
+    "cuisine": "Continental",
+    "grades": [
+      {"date": {"$date": 1401667200000}, "grade": "A", "score": 9},
+      {"date": {"$date": 1388102400000}, "grade": "A", "score": 8},
+      {"date": {"$date": 1363564800000}, "grade": "B", "score": 26},
+      {"date": {"$date": 1328054400000}, "grade": "A", "score": 7},
+      {"date": {"$date": 1309910400000}, "grade": "B", "score": 25}
+    ],
+    "name": "Lorenzo & Maria'S",
+    "restaurant_id": "40363630"
+  },
+  {
+    "address": {
+      "building": "464",
+      "coord": [-73.9791458, 40.744328],
+      "street": "3 Avenue",
+      "zipcode": "10016"
+    },
+    "borough": "Manhattan",
+    "cuisine": "Pizza",
+    "grades": [
+      {"date": {"$date": 1407196800000}, "grade": "A", "score": 3},
+      {"date": {"$date": 1394064000000}, "grade": "A", "score": 11},
+      {"date": {"$date": 1373328000000}, "grade": "A", "score": 12},
+      {"date": {"$date": 1359504000000}, "grade": "A", "score": 4},
+      {"date": {"$date": 1325721600000}, "grade": "A", "score": 2},
+      {"date": {"$date": 1316995200000}, "grade": "A", "score": 0}
+    ],
+    "name": "Domino'S Pizza",
+    "restaurant_id": "40363644"
+  },
+  {
+    "address": {
+      "building": "437",
+      "coord": [-73.975393, 40.757365],
+      "street": "Madison Avenue",
+      "zipcode": "10022"
+    },
+    "borough": "Manhattan",
+    "cuisine": "American",
+    "grades": [
+      {"date": {"$date": 1401753600000}, "grade": "A", "score": 9},
+      {"date": {"$date": 1370563200000}, "grade": "A", "score": 5},
+      {"date": {"$date": 1340928000000}, "grade": "A", "score": 12},
+      {"date": {"$date": 1328486400000}, "grade": "A", "score": 11},
+      {"date": {"$date": 1308787200000}, "grade": "A", "score": 13}
+    ],
+    "name": "Berkely",
+    "restaurant_id": "40363685"
+  },
+  {
+    "address": {
+      "building": "1031",
+      "coord": [-73.9075537, 40.6438684],
+      "street": "East   92 Street",
+      "zipcode": "11236"
+    },
+    "borough": "Brooklyn",
+    "cuisine": "American",
+    "grades": [
+      {"date": {"$date": 1391558400000}, "grade": "A", "score": 0},
+      {"date": {"$date": 1359417600000}, "grade": "A", "score": 3},
+      {"date": {"$date": 1323302400000}, "grade": "A", "score": 10}
+    ],
+    "name": "Sonny'S Heros",
+    "restaurant_id": "40363744"
+  },
+  {
+    "address": {
+      "building": "1111",
+      "coord": [-74.0796436, 40.59878339999999],
+      "street": "Hylan Boulevard",
+      "zipcode": "10305"
+    },
+    "borough": "Staten Island",
+    "cuisine": "Ice Cream, Gelato, Yogurt, Ices",
+    "grades": [
+      {"date": {"$date": 1398297600000}, "grade": "A", "score": 12},
+      {"date": {"$date": 1361836800000}, "grade": "A", "score": 5},
+      {"date": {"$date": 1328140800000}, "grade": "A", "score": 2}
+    ],
+    "name": "Carvel Ice Cream",
+    "restaurant_id": "40363834"
+  },
+  {
+    "address": {
+      "building": "976",
+      "coord": [-73.92701509999999, 40.6620192],
+      "street": "Rutland Road",
+      "zipcode": "11212"
+    },
+    "borough": "Brooklyn",
+    "cuisine": "Chinese",
+    "grades": [
+      {"date": {"$date": 1398211200000}, "grade": "A", "score": 13},
+      {"date": {"$date": 1364256000000}, "grade": "A", "score": 10},
+      {"date": {"$date": 1331596800000}, "grade": "A", "score": 4},
+      {"date": {"$date": 1321401600000}, "grade": "A", "score": 13}
+    ],
+    "name": "Golden Pavillion",
+    "restaurant_id": "40363920"
+  },
+  {
+    "address": {
+      "building": "148",
+      "coord": [-73.9806854, 40.7778589],
+      "street": "West   72 Street",
+      "zipcode": "10023"
+    },
+    "borough": "Manhattan",
+    "cuisine": "Pizza",
+    "grades": [
+      {"date": {"$date": 1417996800000}, "grade": "A", "score": 13},
+      {"date": {"$date": 1399248000000}, "grade": "B", "score": 18},
+      {"date": {"$date": 1365120000000}, "grade": "A", "score": 13},
+      {"date": {"$date": 1333065600000}, "grade": "A", "score": 9}
+    ],
+    "name": "Domino'S Pizza",
+    "restaurant_id": "40363945"
+  },
+  {
+    "address": {
+      "building": "364",
+      "coord": [-73.96084119999999, 40.8014307],
+      "street": "West  110 Street",
+      "zipcode": "10025"
+    },
+    "borough": "Manhattan",
+    "cuisine": "American",
+    "grades": [
+      {"date": {"$date": 1409788800000}, "grade": "B", "score": 20},
+      {"date": {"$date": 1393372800000}, "grade": "B", "score": 23},
+      {"date": {"$date": 1364169600000}, "grade": "A", "score": 12},
+      {"date": {"$date": 1329782400000}, "grade": "A", "score": 8}
+    ],
+    "name": "Spoon Bread Catering",
+    "restaurant_id": "40364179"
+  },
+  {
+    "address": {
+      "building": "1423",
+      "coord": [-73.9615132, 40.6253268],
+      "street": "Avenue J",
+      "zipcode": "11230"
+    },
+    "borough": "Brooklyn",
+    "cuisine": "Jewish/Kosher",
+    "grades": [
+      {"date": {"$date": 1418947200000}, "grade": "A", "score": 10},
+      {"date": {"$date": 1386201600000}, "grade": "A", "score": 11},
+      {"date": {"$date": 1354752000000}, "grade": "A", "score": 9}
+    ],
+    "name": "Kosher Bagel Hole",
+    "restaurant_id": "40364220"
+  }
+]
